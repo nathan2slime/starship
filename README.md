@@ -1,2 +1,2 @@
 # Starship
-🫒 My setup for starship cross-shell prompt
+🍓 My setup for starship cross-shell prompt
